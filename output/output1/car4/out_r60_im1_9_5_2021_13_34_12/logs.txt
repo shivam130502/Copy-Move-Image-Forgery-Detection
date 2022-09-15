@@ -1,0 +1,5 @@
+length of original keypoint=494
+LEN of kp in g2nn=23
+table=512
+table1=512
+table2=512
